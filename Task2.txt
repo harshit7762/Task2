@@ -1,0 +1,16 @@
+Sample Phishing Email
+Subject: Urgent: Your Account Will Be Suspended
+From: PayPal Support support@paypaI-alerts.com
+Body:
+
+Dear Customer,
+
+We've detected unusual activity on your account. To avoid suspension, please confirm your information immediately by clicking the link below:
+
+Confirm Your Account
+
+Failure to comply within 24 hours will result in permanent account closure.
+
+Regards,
+PayPal Support Team
+
